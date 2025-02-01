@@ -1,0 +1,25 @@
+{
+  "_class_name": "SpeechToVideoSDPipeline",
+  "_diffusers_version": "0.31.0",
+  "_name_or_path": "sp2_pipe/speech-to-video-ms-1.7b",
+  "scheduler": [
+    "diffusers",
+    "DDIMScheduler"
+  ],
+  "speech_encoder": [
+    "transformers",
+    "Wav2Vec2Model"
+  ],
+  "tokenizer": [
+    "transformers",
+    "Wav2Vec2Tokenizer"
+  ],
+  "unet": [
+    "diffusers",
+    "UNet3DConditionModel"
+  ],
+  "vae": [
+    "diffusers",
+    "AutoencoderKL"
+  ]
+}
