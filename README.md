@@ -1,2 +1,2 @@
-# Synthesizing Vocal Tract MRI Sequences from Speech via Spatio-Temporal Diffusion
+# A Speech-to-Video Synthesis Approach Using Spatio-Temporal Diffusion for Vocal Tract MRI
 
