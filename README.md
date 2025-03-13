@@ -1,3 +1,2 @@
-# Speech2MRI: An Audio-to-Video Generation Approach for Vocal Tract Visualization Using Spatio-Temporal Diffusion
-
+# Synthesizing Vocal Tract MRI Sequences from Speech via Spatio-Temporal Diffusion
 
